@@ -1,0 +1,103 @@
+.navbar {
+    border-bottom: 4px solid #007bff;
+    opacity: 0.7;
+}
+a{
+    color:white;
+}
+.card{
+    min-height: 380px;
+}
+.bg-body{
+    background: #F0F0F0;
+}
+.bg1{
+    color:white;
+    background-color: #534686;
+}
+.bg2{
+    color:white;
+    background-color: #1533a0;
+}
+.bg3{
+    color:white;
+    background-color: #007bff;
+}
+.bg4{
+    color:white;
+    background-color: #00b8ff;
+}
+.bg5{
+    color:white;
+    background-color: #27d27b;
+}
+.bg6{
+    color:white;
+    background-color: #ff004088;
+}
+.bg7{
+    color:white;
+    background-color: #ff8800;
+}
+.bg8{
+    color:white;
+    background-color: #ff00c8;
+}
+
+
+@media only screen and (min-width: 1200px) {
+    .content {
+    margin-top: 20px;
+    }
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+.content {
+    margin-top: 160px;
+    }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+.content {
+    margin-top: 120px;
+    }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+.content {
+    margin-top: 80px;
+    }
+} 
+/* 
+
+.container{
+    margin:0px 15px 0px 15px;
+}
+
+.col-lg-6{
+    width:50%;
+}
+
+.movies{
+    width:75%;
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+}
+.watchlist{
+    width:25%;
+    display: flex;
+}
+.card{
+    margin: 5px;
+    padding:5px;
+}
+.card-body{
+    padding: 5px;
+}
+.row{
+    display: flex;
+} */
